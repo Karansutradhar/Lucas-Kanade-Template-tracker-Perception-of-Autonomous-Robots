@@ -5,7 +5,7 @@ File name: project4.py
 
 Command to run the program:
 
-    python -u project4.py
+    python -u LucasKanadeTemplateTracker.py
 
 Instructions to run the program:
 1. Make sure the python file and the data sets are in the same directory 
