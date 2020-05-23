@@ -1,7 +1,4 @@
-ENPM673: Perception for Autonomous Robotics - Project 4
-
-
-File name: project4.py
+File name: LucasKanadeTemplateTracker.py
 
 Command to run the program:
 
