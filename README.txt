@@ -8,13 +8,6 @@ Instructions to run the program:
 1. Make sure the python file and the data sets are in the same directory 
 2. To change between different data sets you may comment the unwated function call and un-comment the required function call in lines 190,191,192 
 
-
-
-
-
-
-
-
 We imported the following libraries:
 * numpy
 * cv2
